@@ -1,0 +1,31 @@
+
+#myDIV{
+    margin: auto;
+    width: 50%;
+    border: 3px solid royalblue;
+    padding: 10px;
+    background: red;
+    animation: mymove 5s infinite;
+    text-align: center;
+}
+@keyframes mymove{
+    from{background-color:aliceblue;}
+    to{background-color:rebeccapurple;}
+}
+
+.image {
+  margin-left:650px;
+  width: 10%;
+  border:3px solid purple;
+}
+
+h2{
+    margin-left: 665px;
+}
+
+span{
+    margin-left: 622px;
+    font-family: 'Courier New', monospace;
+    font-size: x-large;
+    color: red;
+}
